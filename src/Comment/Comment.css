@@ -1,0 +1,7 @@
+.comment{
+    box-shadow: 2px 2px 20px gray;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px 40px;
+    width: 300px
+}
